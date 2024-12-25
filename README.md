@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Bruno</h1>
 <h3 align="center">Geographer 🌎 and data science enthusiast 🤖. Le Wagon Data Science batch #1542 🚀.</h3>
 
-- 🔭 I’m currently working on: [Live Sentiment Tracker](https://github.com/brvsf/live-sentiment-tracker)
+- 🔭 I’m currently working on: [Heads Up](https://github.com/brvsf/heads-up)
 
 - 🌱 I’m currently learning: **Machine learning and Deep learning**
 
