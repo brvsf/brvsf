@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋, I'm Bruno</h1>
-<h3 align="center">Geographer 🌎 and data science enthusiast 🤖. Le Wagon Data Science batch #1542 🚀.</h3>
+<h1 align="center">Hello, I'm Bruno</h1>
+<h3 align="center">Geographer and data science enthusiast. Le Wagon Data Science batch #1542 🚀.</h3>
 
-- 🔭 I’m currently working on: [Heads Up](https://github.com/brvsf/heads-up)
+- 🔭 I’m currently working as a Data Analyst at Cloudwalk
 
 - 🌱 I’m currently learning: **Machine learning and Deep learning**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on: [https://medium.com/@brunovsf](https://medium.com/@brunovsf)
 
-- 💬 Ask me about: **python 🐍, machine learning 🤖, music 🎶 and video games 🎮**
+- 💬 Ask me about: **programming, machine learning, music and video games **
 
 - 📫 How to reach me: **brvieirasf@gmail.com**
 
