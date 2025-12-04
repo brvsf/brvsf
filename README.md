@@ -1,19 +1,13 @@
 <h1 align="center">Hello, I'm Bruno</h1>
-<h3 align="center">Geographer and data science enthusiast. Le Wagon Data Science batch #1542 🚀.</h3>
+<h3 align="center">Geographer and data science enthusiast. Le Wagon Data Science batch #1542.</h3>
 
 - 🔭 I’m currently working as a Data Analyst at Cloudwalk
 
 - 🌱 I’m currently learning: **Machine learning and Deep learning**
 
-- 👨‍💻 All of my projects are available at: [https://troopl.com/brvsf](https://troopl.com/brvsf)
-
-- 📝 I regularly write articles on: [https://medium.com/@brunovsf](https://medium.com/@brunovsf)
-
-- 💬 Ask me about: **programming, machine learning, music and video games **
+- 💬 Ask me about: **programming, machine learning, music and video games**
 
 - 📫 How to reach me: **brvieirasf@gmail.com**
-
-- 📄 Know about my experiences: [https://flowcv.com/resume/1kme64ggdt](https://flowcv.com/resume/1kme64ggdt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
